@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferivonus
 - 👀 I’m interested in Internet programing, and game developing
-- 🌱 I’m currently learning Unreal engine 4 and unity 
+- 🌱 I’m currently learning python, Unreal engine 4, and unity 
 - 📫 And you can reach me on Fahrettin_basturk@hotmail.com 
 
 <!---

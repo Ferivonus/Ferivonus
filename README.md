@@ -28,7 +28,7 @@ I work with the following languages and tools:
 - Python <img src="https://img.icons8.com/color/24/000000/python.png"/>
 - HTML <img src="https://img.icons8.com/color/24/000000/html-5.png"/>
 - CSS <img src="https://img.icons8.com/color/24/000000/css3.png"/>
-- PHP <img src="https://img.icons8.com/officel/24/000000/php-logo.png?size=11111111111115000000"/>
+- PHP <img src="https://img.icons8.com/officel/24/000000/php-logo.png"/>
 - JavaScript <img src="https://img.icons8.com/color/24/000000/javascript.png"/>
 - SQL <img src="https://img.icons8.com/color/24/000000/sql.png"/>
 - TypeScript <img src="https://img.icons8.com/color/24/000000/typescript.png"/>

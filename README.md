@@ -22,40 +22,38 @@ I work with the following languages and tools:
 
 ### Programming Languages
 
--  <img src="https://img.icons8.com/color/24/000000/c-programming.png"/>
--  <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>
--  <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>
-- Python <img src="https://img.icons8.com/color/24/000000/python.png"/>
-- HTML <img src="https://img.icons8.com/color/24/000000/html-5.png"/>
-- CSS <img src="https://img.icons8.com/color/24/000000/css3.png"/>
-- PHP <img src="https://img.icons8.com/officel/24/000000/php-logo.png"/>
-- JavaScript <img src="https://img.icons8.com/color/24/000000/javascript.png"/>
-- SQL <img src="https://img.icons8.com/color/24/000000/sql.png"/>
-- TypeScript <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+- C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+- C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- PHP ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- SQL ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
 ### Libraries
 
-- Vue.js <img src="https://img.icons8.com/color/24/000000/vue-js.png"/>
-- Discord.js <img src="https://img.icons8.com/color/24/000000/discord-logo.png"/>
+- Vue.js ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+- Discord.js ![Discord.js](https://img.icons8.com/color/48/000000/discord-logo.png)
 
 ### Frameworks
 
-- .NET 5.0 <img src="https://img.icons8.com/color/24/000000/dot-net.png"/>
+- .NET 5.0 ![.NET 5.0](https://img.icons8.com/color/48/000000/dot-net.png)
 
 ### Programs
 
-- Unreal Engine 5 <img src="https://img.icons8.com/color/24/000000/unreal-engine.png"/>
-- Unity <img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/>
-- Orange (For Machine Learning) <img src="https://img.icons8.com/color/24/000000/orange.png"/>
-- Figma <img src="https://img.icons8.com/color/24/000000/figma.png"/>
+- Unreal Engine 5 ![Unreal Engine 5](https://img.icons8.com/color/48/000000/unreal-engine.png)
+- Unity ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png)
+- Orange (For Machine Learning) ![Orange](https://img.icons8.com/color/48/000000/orange.png)
+- Figma ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
 ### IDEs
 
-- Visual Studio Code <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/>
-- Pycharm <img src="https://img.icons8.com/color/24/000000/pycharm.png"/>
+- Visual Studio Code ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+- Pycharm ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 Additionally, I showcase some of my work on my Github profile. You can check out my projects and other works here: [Link to your Github profile]
 
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!
-
-![alt text](image.jpg?size=500)

@@ -7,3 +7,8 @@
 Ferivonus/Ferivonus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Github İstatistiklerim
+
+[![Ferivonus'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=radical)](https://github.com/Ferivonus)
+

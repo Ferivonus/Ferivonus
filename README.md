@@ -22,9 +22,9 @@ I work with the following languages and tools:
 
 ### Programming Languages
 
-- C <img src="https://img.icons8.com/color/24/000000/c-programming.png"/>
-- C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>
-- C# <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>
+-  <img src="https://img.icons8.com/color/24/000000/c-programming.png"/>
+-  <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>
+-  <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>
 - Python <img src="https://img.icons8.com/color/24/000000/python.png"/>
 - HTML <img src="https://img.icons8.com/color/24/000000/html-5.png"/>
 - CSS <img src="https://img.icons8.com/color/24/000000/css3.png"/>

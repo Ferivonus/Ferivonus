@@ -1,14 +1,18 @@
+
+
+<!---
+Ferivonus/Ferivonus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 - 👋 Hi, I’m @Ferivonus
 - 👀 I’m interested in Internet programing, and game developing
 - 🌱 I’m currently learning python, Unreal engine 5, and unity 
 - 📫 And you can reach me on ferivonus@hotmail.com 
 
-<!---
-Ferivonus/Ferivonus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 
-# Welcome to my profile ![cutePic](https://tenor.com/tr/view/pink-kawaii-anime-girl-gif-25419181)
+#  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150">  Welcome to my profile  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150"> 
 ## Hello! 👋
 
 I'm Fahrettin Baştürk, and I'm interested in the following areas of software development:
@@ -42,7 +46,7 @@ I work with the following languages and tools:
 
 -  ![Unreal Engine 5](https://img.icons8.com/color/48/000000/unreal-engine.png) ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
-![Orange](https://img.icons8.com/color/48/000000/orange.png) (For ML) 
+- ![Orange](https://img.icons8.com/color/48/000000/orange.png) (For ML) 
 
 ### Databases
 
@@ -54,7 +58,7 @@ I work with the following languages and tools:
 
 ### IDEs
 
--  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 - ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 - Atom
 

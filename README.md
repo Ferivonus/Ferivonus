@@ -22,16 +22,11 @@ I work with the following languages and tools:
 
 ### Programming Languages
 
-- C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-- C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+- C ![C](https://img.icons8.com/color/48/000000/c-programming.png) C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- PHP ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- SQL ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png) CSS3 ![CSS](https://img.icons8.com/color/48/000000/css3.png) JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+
+- PHP ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png) SQL ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ### Libraries
 

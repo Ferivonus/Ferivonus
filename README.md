@@ -35,20 +35,21 @@ I work with the following languages and tools:
 -  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 -  ![Go-lang](https://img.icons8.com/color/48/000000/golang.png)  ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="50">
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="200">
 
 
 
 
  
-### Libraries
-
--  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) ![Discord.js](https://img.icons8.com/color/48/000000/discord-logo.png)
-
 ### Frameworks
 
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="50"> (7.0)
+-  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="50"> (7.0) 
 
+### Libraries
+
+- ![Discord.js](https://img.icons8.com/color/48/000000/discord-logo.png)
+
+### Programs
 
 -  ![Unreal Engine 5](https://img.icons8.com/color/48/000000/unreal-engine.png) ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 

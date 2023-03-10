@@ -28,13 +28,16 @@ I work with the following languages and tools:
 ### Programming Languages
 
 
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Rust](https://codinggrammar.com/wp-content/uploads/2020/06/rust-logo.png)
  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 -  ![Python](https://img.icons8.com/color/48/000000/python.png)
 -  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
--  ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
+-  ![Go-lang](https://img.icons8.com/color/48/000000/golang.png)  ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![firebase](https://en.wikipedia.org/wiki/File:Firebase_Logo.svg)
 
+
+ 
 ### Libraries
 
 -  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) ![Discord.js](https://img.icons8.com/color/48/000000/discord-logo.png)
@@ -65,3 +68,5 @@ I work with the following languages and tools:
 Additionally, I showcase some of my work on my Github profile. You can check out my projects and other works here: 
 
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!
+
+ 

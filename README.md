@@ -34,7 +34,7 @@ I work with the following languages and tools:
 -  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 -  ![Go-lang](https://img.icons8.com/color/48/000000/golang.png)  ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![firebase](https://en.wikipedia.org/wiki/File:Firebase_Logo.svg)
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![firebase](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png)
 
 
  

@@ -23,12 +23,12 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 - Game and Simulation Programming
 - Machine Learning
 
-## I am currently learning
+### I am currently learning
 - Internet Programming
 - Game and Simulation Programming
 - Machine Learning
 
-## I am currently studying on
+### I am currently studying on
 - Rust (System)
 - Go-Lang (backend)
 - Vue.js (front end framework)
@@ -39,8 +39,7 @@ I work with the following languages and tools:
 
 ### Programming Languages
 
-
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) <img src="https://codinggrammar.com/wp-content/uploads/2020/06/rust-logo.png" width="50">
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) <img src="/Some İmages/rust.png" width="50">
 
  
 -  ![Python](https://img.icons8.com/color/48/000000/python.png)

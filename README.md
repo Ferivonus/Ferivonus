@@ -23,6 +23,18 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 - Game and Simulation Programming
 - Machine Learning
 
+## I am currently learning
+- Internet Programming
+- Game and Simulation Programming
+- Machine Learning
+
+## I am currently studying on
+- Rust (System)
+- Go-Lang (backend)
+- Vue.js (front end framework)
+- C# (unity / win apps)
+- Python (Functionality)
+
 I work with the following languages and tools:
 
 ### Programming Languages
@@ -37,13 +49,10 @@ I work with the following languages and tools:
 -  ![Go-lang](https://img.icons8.com/color/48/000000/golang.png)  ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="200">
 
-
-
-
  
 ### Frameworks
 
--  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="50"> (7.0) 
+-  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="50"> 
 
 ### Libraries
 
@@ -64,7 +73,7 @@ I work with the following languages and tools:
 
 
 ### IDEs
-
+- Atom
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 - ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 - Atom
@@ -72,5 +81,3 @@ I work with the following languages and tools:
 Additionally, I showcase some of my work on my Github profile. You can check out my projects and other works here: 
 
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!
-
- 

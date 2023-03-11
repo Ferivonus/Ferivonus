@@ -78,6 +78,4 @@ I work with the following languages and tools:
 - ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 - Atom
 
-Additionally, I showcase some of my work on my Github profile. You can check out my projects and other works here: 
-
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!

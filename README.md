@@ -39,7 +39,7 @@ I work with the following languages and tools:
 
 ### Programming Languages
 
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) <img src="/Some İmages/rust.png" width="70">
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) <img src="/Some İmages/rust.png" width="55">
 
  
 -  ![Python](https://img.icons8.com/color/48/000000/python.png)

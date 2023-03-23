@@ -23,12 +23,6 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 - Game and Simulation Programming
 - Machine Learning
 
-
-### I am currently learning
-- Internet Programming
-- Game and Simulation Programming
-- Machine Learning
-
 ### I am currently studying on
 - Rust (System)
 - Go-Lang (backend)

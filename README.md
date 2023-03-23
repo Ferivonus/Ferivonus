@@ -23,6 +23,9 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 - Game and Simulation Programming
 - Machine Learning
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
+
+
 ### I am currently studying on
 - Rust (System)
 - Go-Lang (backend)

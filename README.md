@@ -23,8 +23,6 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 - Game and Simulation Programming
 - Machine Learning
 
-![Profile views](https://gpvc.arturio.dev/<Ferivonus>)
-
 
 ### I am currently learning
 - Internet Programming
@@ -73,11 +71,6 @@ I work with the following languages and tools:
 - Oracle
 - Firebase
 
-
-### IDEs
-- Atom
-- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-- ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
-- Atom
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ferivonus&theme=dark)](https://git.io/streak-stats)
 
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!

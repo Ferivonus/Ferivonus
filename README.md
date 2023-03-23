@@ -26,6 +26,10 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact">
+
+![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&hide=[%22issues%22])
+
 ### I am currently studying on
 - Rust (System)
 - Go-Lang (backend)

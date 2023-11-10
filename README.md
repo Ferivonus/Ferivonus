@@ -28,8 +28,6 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact)](https://github.com/Ferivonus/github-readme-stats)
 
-![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=cobalt)
-
 ### I am currently studying on
 - Rust, C, C++ (System)
 - Go-Lang, Rust-Actix (back-end)
@@ -73,6 +71,8 @@ I work with the following languages and tools:
 - MySQL
 - Oracle
 - Firebase
+
+![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=cobalt)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ferivonus&theme=dark)](https://git.io/streak-stats)
 

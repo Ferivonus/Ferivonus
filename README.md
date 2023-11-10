@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm Fahrettin Baştürk, and I'm interested in the following areas of software development:
 
-- Internet Programming
+- Internet (front and back-end) Programming
 - Discord Bot Programming
 - Computer Program Programming
 - Game and Simulation Programming
@@ -31,11 +31,13 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 ![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&hide=[%22issues%22])
 
 ### I am currently studying on
-- Rust (System)
-- Go-Lang (backend)
+- Rust, C, C++ (System)
+- Go-Lang, Rust-Actix (back-end)
 - Vue.js (front end framework)
-- C# (unity / win apps)
-- Python (Functionality)
+- C# (unity / win apps) / Game and simulation
+- C++ (Unreal engine 5) / Game and simulation
+- Python (Functionality) 
+- Python - C# (machine learning) 
 
 I work with the following languages and tools:
 

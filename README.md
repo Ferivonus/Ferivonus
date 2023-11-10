@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150">  Welcome to my profile  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150"> 
 ## Hello! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Search+on+the+world;learn+on+your+mind;Do+with+your+trust)](https://git.io/typing-svg)
+
 I'm Fahrettin Baştürk, and I'm interested in the following areas of software development:
 
 - Internet (front and back-end) Programming
@@ -26,7 +28,7 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&hide=javascript,css,scss,html&theme=tokyonight)](https://github.com/Ferivonus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&hide=ShaderLab,javascript,css,scss,html&theme=tokyonight)](https://github.com/Ferivonus/github-readme-stats)
 
 ### I am currently studying on
 - Rust, C, C++ (System)

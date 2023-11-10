@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150">  Welcome to my profile  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150"> 
-## Hello! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Search+on+the+world;learn+on+your+mind;Do+with+your+trust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&random=false&width=435&lines=Search+on+the+world;learn+on+your+mind;Do+with+your+trust)](https://git.io/typing-svg)
+
+## Hello! 👋
 
 I'm Fahrettin Baştürk, and I'm interested in the following areas of software development:
 

@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcatak&layout=compact)](https://github.com/iremcatak/github-readme-stats)
-
-
 
 #  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150">  Welcome to my profile  <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="150"> 
 ## Hello! 👋
@@ -29,7 +26,7 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact)](https://github.com/iremcatak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact)](https://github.com/Ferivonus/github-readme-stats)
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact">
 

@@ -29,7 +29,9 @@ I'm Fahrettin Baştürk, and I'm interested in the following areas of software d
 
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&hide=ShaderLab,javascript,css,scss,html&theme=tokyonight)](https://github.com/Ferivonus/github-readme-stats)
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12&hide=ShaderLab,javascript,css,scss,html&theme=tokyonight">
+
+
 
 ### I am currently studying on
 - Rust, C, C++ (System)

@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 I'm Fahrettin Baştürk, and I'm interested in the following areas of software development:
 
 - Internet (front and back-end) Programming
-- Discord Bot Programming
+- Social media / otomation Bot Programming
 - Computer Program Programming
 - Game and Simulation Programming
 - Machine Learning

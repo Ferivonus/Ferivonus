@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello! 👋
 
-I'm F**_ B_**, and I'm interested in the following areas of software development:
+I'm F\_\*\*\*\* B\_\*\*, and I'm interested in the following areas of software development:
 
 - Internet (front and back-end) Programming
 - Social media / otomation Bot Programming

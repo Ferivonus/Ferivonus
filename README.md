@@ -29,6 +29,8 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12&hide=ShaderLab,javascript,css,scss,html&theme=tokyonight">
 
+https://counter.seku.su/cmoe?name=ferivon&theme=r34
+
 ## I am currently studying on
 
 - Rust, C, C++ - (System)

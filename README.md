@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello! 👋
 
+
 I'm F**\_ B**, and I'm interested in the following areas of software development:
 
 - Internet (front and back-end) Programming
@@ -22,6 +23,8 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 - Game and Simulation Programming
 - Machine Learning
 - Reverse engineering for f\*cking applications for fun :3
+
+![ferivonus rule34 markdown](http://counter.seku.su/cmoe?name=ferivonus&theme=rule34)
 
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 

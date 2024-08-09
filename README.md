@@ -24,8 +24,7 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 - Machine Learning
 - Reverse engineering for f\*cking applications for fun :3
 
-![ferivonus rule34 markdown](http://counter.seku.su/cmoe?name=ferivonus&theme=rule34)
-
+![ferivonus markdown](https://counter.seku.su/cmoe?name=ferivonus&theme=r34)
 <p align=""><img src="https://komarev.com/ghpvc/?username=Ferivonus&style=flat-square&color=blue" alt=""></p>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferivonus&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12&hide=ShaderLab,javascript,css,scss,html&theme=tokyonight">

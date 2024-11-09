@@ -51,13 +51,10 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 
 - **Fonksiyonel Programlama ve Scripting**  
   Kullandığım diller: Python, C#, Rust
-
 - **Makine Öğrenmesi**  
   Kullandığım teknolojiler: Python, C#
-
 - **Tersine Mühendislik**  
   Kullandığım araç: Ghidra
-
 - **Düşük Seviye Grafik Programlama**  
   Kullandığım teknolojiler: DirectX
 

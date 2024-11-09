@@ -32,33 +32,40 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 
 https://counter.seku.su/cmoe?name=ferivon&theme=r34
 
-## I am currently studying on
+## Şu anda çalıştığım alanlar
 
-- Rust, C, C++ - (System)
-- Go-Lang, Rust-Actix, PHP-laravel, c# aspnet - (back-end)
-- C#, C++ - Game and simulation (unity / Unreal Engine 5)
-- C#, C++, python - Windows app
-- Vue.js - (front end framework)
-- Python, Rust - (Functionality)
-- Python, C# - (machine learning)
-- Ghidra - (Reverse engineering)
-- Directx - (Low level game engine)
+- **Sistem Programlaması**  
+  Kullandığım diller: C, C++, C#, Rust
 
-I work with the following languages and tools:
+- **Backend Geliştirme**  
+  Kullandığım teknolojiler: Go, PHP, Rust (Actix), C# (ASP.NET), Nginx
 
-## Programming Languages
+- **Oyun ve Simülasyon Geliştirme**  
+  Kullandığım teknolojiler: C#, C++, Unity, Unreal Engine 5
 
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) <img src="/Some İmages/rust.png" width="55">
+- **Windows Uygulama Geliştirme**  
+  Kullandığım teknolojiler: C#, C++, Python, Tauri
 
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- ![Go-lang](https://img.icons8.com/color/48/000000/golang.png) ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="200">
+- **Frontend Web Geliştirme**  
+  Kullandığım teknolojiler: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js, Svelte
 
-## Frameworks
+- **Fonksiyonel Programlama ve Scripting**  
+  Kullandığım diller: Python, C#, Rust
 
-- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="50">
+- **Makine Öğrenmesi**  
+  Kullandığım teknolojiler: Python, C#
+
+- **Tersine Mühendislik**  
+  Kullandığım araç: Ghidra
+
+- **Düşük Seviye Grafik Programlama**  
+  Kullandığım teknolojiler: DirectX
+
+- **Uygulama Paketleme**  
+  Kullandığım araç: Xix Toolset
+
+- **Veritabanları**  
+  Kullandığım teknolojiler: SQL, MySQL, SQLite, MongoDB, Firebase
 
 ## Libraries
 

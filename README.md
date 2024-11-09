@@ -32,13 +32,13 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 
 https://counter.seku.su/cmoe?name=ferivon&theme=r34
 
-## Şu anda çalıştığım alanlar
+## Şu anda uğraştığım alanlar
 
 - **Sistem Programlaması**  
   Kullandığım diller: C, C++, C#, Rust
 
 - **Backend Geliştirme**  
-  Kullandığım teknolojiler: Go, PHP, Rust (Actix), C# (ASP.NET), Nginx
+  Kullandığım teknolojiler: Go, PHP (laravel), Rust (Actix), C# (ASP.NET), Nginx
 
 - **Oyun ve Simülasyon Geliştirme**  
   Kullandığım teknolojiler: C#, C++, Unity, Unreal Engine 5

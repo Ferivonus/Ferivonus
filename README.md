@@ -58,6 +58,9 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 - **Düşük Seviye Grafik Programlama**  
   Kullandığım teknolojiler: DirectX
 
+  - **Mobil uygulama Programlama**  
+  Kullandığım Frameworkler: Flutter
+
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset
 

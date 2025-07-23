@@ -136,6 +136,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 - MySQL
 - Oracle
 - Firebase
+- PostgreSQL
 
 ![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=cobalt)
 

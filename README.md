@@ -68,23 +68,26 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 - **Mobil uygulama Programlama**  
   Kullandığım Frameworkler: Flutter, Kotlin
 
-# Bilgisayar Otomasyonu
-
-Kullandığım diller:
+- Bilgisayar Otomasyonu
+  
+    * Kullandığım diller:
+      
+      *Windows
+        * **Batch** (.bat / .cmd)
+          
+        * **PowerShell** (.ps1)
+          
+      * Linux
+        * **Bash** (.sh)
+          
+        * **Z Shell**
 
 ---
 
-## Windows
-
-* **Batch** (.bat / .cmd)
-* **PowerShell** (.ps1)
 
 ---
 
-## Linux
 
-* **Bash** (.sh)
-* **Z Shell**
 
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset

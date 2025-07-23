@@ -86,7 +86,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
           
     * **Z Shell**
 
-----
+--
 
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset

@@ -22,7 +22,9 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 - Computer Program Programming
 - Game and Simulation Programming
 - Machine Learning
-- mobile development 
+- mobile development
+- Rom hacking
+- Malware Development 
 - Reverse engineering for f\*cking applications for fun :3
 
 ![ferivonus markdown](https://counter.seku.su/cmoe?name=ferivonus&theme=r34)
@@ -40,6 +42,9 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 
 - **Backend Geliştirme**
   Kullandığım teknolojiler: Go, PHP (laravel), Rust (Actix), C# (ASP.NET), Nginx
+
+- **Malware Development**
+  Kullandığım diller: C, x86 64/32 assembly, C++, Rust.
 
 - **Oyun ve Simülasyon Geliştirme**  
   Kullandığım teknolojiler: C#, C++, Unity, Unreal Engine 5
@@ -81,12 +86,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
           
     * **Z Shell**
 
----
-
-
----
-
-
+----
 
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset

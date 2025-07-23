@@ -69,18 +69,17 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
   Kullandığım Frameworkler: Flutter, Kotlin
 
 - Bilgisayar Otomasyonu
-  
-    * Kullandığım diller:
+  Kullandığım diller:
       
-      *Windows
-        * **Batch** (.bat / .cmd)
+  * Windows
+    * **Batch** (.bat / .cmd)
           
-        * **PowerShell** (.ps1)
+    * **PowerShell** (.ps1)
           
-      * Linux
-        * **Bash** (.sh)
+  * Linux
+    * **Bash** (.sh)
           
-        * **Z Shell**
+    * **Z Shell**
 
 ---
 

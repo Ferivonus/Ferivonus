@@ -22,6 +22,7 @@ I'm F**\_ B**, and I'm interested in the following areas of software development
 - Computer Program Programming
 - Game and Simulation Programming
 - Machine Learning
+- mobile development 
 - Reverse engineering for f\*cking applications for fun :3
 
 ![ferivonus markdown](https://counter.seku.su/cmoe?name=ferivonus&theme=r34)
@@ -35,9 +36,9 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ## Şu anda uğraştığım alanlar
 
 - **Sistem Programlaması**  
-  Kullandığım diller: C, C++, C#, Rust
+  Kullandığım diller: C, C++, C#, Rust, x86 64/32 assembly
 
-- **Backend Geliştirme**  
+- **Backend Geliştirme**
   Kullandığım teknolojiler: Go, PHP (laravel), Rust (Actix), C# (ASP.NET), Nginx
 
 - **Oyun ve Simülasyon Geliştirme**  
@@ -50,16 +51,40 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
   Kullandığım teknolojiler: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js, Svelte
 
 - **Fonksiyonel Programlama ve Scripting**  
-  Kullandığım diller: Python, C#, Rust
+  Kullandığım diller: Python, C#, Rust, C++
+  
 - **Makine Öğrenmesi**  
   Kullandığım teknolojiler: Python, C#
+  
 - **Tersine Mühendislik**  
   Kullandığım araç: Ghidra
-- **Düşük Seviye Grafik Programlama**  
-  Kullandığım teknolojiler: DirectX
+  
+- **Raw ağ izleme**
+  Kullandığım araç: Wireshark
+  
+- **Düşük Seviye Grafik Programlama / işleme**  
+  Kullandığım teknolojiler: DirectX, OpenCV
 
 - **Mobil uygulama Programlama**  
-  Kullandığım Frameworkler: Flutter
+  Kullandığım Frameworkler: Flutter, Kotlin
+
+# Bilgisayar Otomasyonu
+
+Kullandığım diller:
+
+---
+
+## Windows
+
+* **Batch** (.bat / .cmd)
+* **PowerShell** (.ps1)
+
+---
+
+## Linux
+
+* **Bash** (.sh)
+* **Z Shell**
 
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset

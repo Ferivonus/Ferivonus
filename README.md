@@ -40,38 +40,62 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 - **Sistem Programlaması**  
   Kullandığım diller: C, C++, C#, Rust, x86 64/32 assembly
 
+---
+
 - **Backend Geliştirme**
   Kullandığım teknolojiler: Go, PHP (laravel), Rust (Actix), C# (ASP.NET), Nginx
+
+---
 
 - **Malware Development**
   Kullandığım diller: C, x86 64/32 assembly, C++, Rust.
 
+---
+
 - **Oyun ve Simülasyon Geliştirme**  
   Kullandığım teknolojiler: C#, C++, Unity, Unreal Engine 5
+
+---
 
 - **Windows Uygulama Geliştirme**  
   Kullandığım teknolojiler: C#, C++, Python, Tauri
 
+---
+
 - **Frontend Web Geliştirme**  
   Kullandığım teknolojiler: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js, Svelte
 
+---
+
 - **Fonksiyonel Programlama ve Scripting**  
   Kullandığım diller: Python, C#, Rust, C++
+
+---
   
 - **Makine Öğrenmesi**  
   Kullandığım teknolojiler: Python, C#
+
+---
   
 - **Tersine Mühendislik**  
   Kullandığım araç: Ghidra
+
+---
   
 - **Raw ağ izleme**
   Kullandığım araç: Wireshark
+
+---
   
 - **Düşük Seviye Grafik Programlama / işleme**  
   Kullandığım teknolojiler: DirectX, OpenCV
 
+---
+
 - **Mobil uygulama Programlama**  
   Kullandığım Frameworkler: Flutter, Kotlin
+  
+---
 
 - Bilgisayar Otomasyonu
   Kullandığım diller:
@@ -86,10 +110,12 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
           
     * **Z Shell**
 
---
+---
 
 - **Uygulama Paketleme**  
   Kullandığım araç: Xix Toolset
+
+---
 
 - **Veritabanları**  
   Kullandığım teknolojiler: SQL, MySQL, SQLite, MongoDB, Firebase

@@ -38,7 +38,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ## Şu anda uğraştığım alanlar
 
 - **Sistem Programlaması**  
-  Kullandığım diller: C, C++, C#, Rust, x86 64/32 assembly
+  Kullandığım diller: C, C++, C#, Rust, x86 64/32 assembly, arm assembly
 
 ---
 
@@ -48,7 +48,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ---
 
 - **Malware Development**
-  Kullandığım diller: C, x86 64/32 assembly, C++, Rust.
+  Kullandığım diller: C, x86 64/32 assembly, arm assembly, C++, Rust.
 
 ---
 
@@ -63,12 +63,12 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ---
 
 - **Frontend Web Geliştirme**  
-  Kullandığım teknolojiler: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js, Svelte
+  Kullandığım teknolojiler: HTML, CSS, JavaScript, TypeScript, Vue.js/ts, React.js/ts, Svelte
 
 ---
 
 - **Fonksiyonel Programlama ve Scripting**  
-  Kullandığım diller: Python, C#, Rust, C++
+  Kullandığım diller: Python, C#, Rust, C++, x86 64/32 assembly, arm assembly,
 
 ---
   
@@ -118,7 +118,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ---
 
 - **Veritabanları**  
-  Kullandığım teknolojiler: SQL, MySQL, SQLite, MongoDB, Firebase
+  Kullandığım teknolojiler: SQL, MySQL, SQLite, MongoDB, Firebase, PostgreSQL
 
 ## Libraries
 
@@ -129,14 +129,6 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 - ![Unreal Engine 5](https://img.icons8.com/color/48/000000/unreal-engine.png) ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
 - ![Orange](https://img.icons8.com/color/48/000000/orange.png) (For ML)
-
-## Databases
-
-- MongoDb
-- MySQL
-- Oracle
-- Firebase
-- PostgreSQL
 
 ![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=cobalt)
 

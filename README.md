@@ -130,8 +130,6 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 
 - ![Orange](https://img.icons8.com/color/48/000000/orange.png) (For ML)
 
-![Fahrettin's github stats](https://github-readme-stats.vercel.app/api?username=Ferivonus&show_icons=true&theme=cobalt)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ferivonus&theme=dark)](https://git.io/streak-stats)
 
 Thank you for visiting my profile. I hope this helps make it more appealing and informative to you!

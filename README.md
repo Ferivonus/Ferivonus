@@ -25,7 +25,9 @@ I am F**\_ B**, and I'm interested in the following areas of software developmen
 - mobile development
 - Rom hacking
 - Malware Development 
-- Reverse engineering for f\*cking applications for fun :3
+- Reverse engineering for f\*cking applications
+- Rust library development
+- ARM and X86 Assembly development / patching
 
 ![ferivonus markdown](https://counter.seku.su/cmoe?name=ferivonus&theme=r34)
 

@@ -29,6 +29,7 @@ I am F**\_ B**, and I'm interested in the following areas of software developmen
 - Malware Development 
 - Reverse engineering for f\*cking applications
 - Reverse engineering tool developing
+- Securing applications development
 - Rust library development
 - ARM and X86 Assembly development / patching
 

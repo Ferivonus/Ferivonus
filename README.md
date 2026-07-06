@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello! 👋
 
+Only hacking part of me is here:
+[codeberg.org link](https://codeberg.org/ferivonus)
 
 I am F**\_ B**, and I'm interested in the following areas of software development:
 
@@ -26,6 +28,7 @@ I am F**\_ B**, and I'm interested in the following areas of software developmen
 - Rom hacking
 - Malware Development 
 - Reverse engineering for f\*cking applications
+- Reverse engineering tool developing
 - Rust library development
 - ARM and X86 Assembly development / patching
 

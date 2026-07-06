@@ -84,7 +84,7 @@ https://counter.seku.su/cmoe?name=ferivon&theme=r34
 ---
   
 - **Tersine Mühendislik**  
-  Kullandığım araç: Ghidra
+  Kullandığım araçlar: Ghidra, Intelij
 
 ---
   

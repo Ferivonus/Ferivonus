@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## Hello! 👋
 
 Only hacking part of me is here:
-> [codeberg.org Account Link](https://codeberg.org/ferivonus)
+- [codeberg.org Account Link](https://codeberg.org/ferivonus)
 
 I am F**\_ B**, and I'm interested in the following areas of software development:
 

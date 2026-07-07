@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Some_images/These%2022%20Inspiring%20Miyazaki%20Quotes%20Will%20Move%20You%20to%20Tears.gif" alt="İlham Veren Sözler">
+  <img src="Some_images/The-wind-rising.gif" alt="İlham Veren Sözler">
   <h1>👋 Merhaba, Ben Ferivonus! 👋</h1>
   <p>
     <i>Çok Disiplinli Mühendis | Güvenlik Araştırmacısı | Tersine Mühendis</i><br>

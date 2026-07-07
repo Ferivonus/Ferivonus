@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="Some_images/These%2022%20Inspiring%20Miyazaki%20Quotes%20Will%20Move%20You%20to%20Tears.gif" alt="Inspiring Quotes">
-  <h1>👋 Hello, I'm Ferivonus! 👋</h1>
+  <img src="Some_images/These%2022%20Inspiring%20Miyazaki%20Quotes%20Will%20Move%20You%20to%20Tears.gif" alt="İlham Veren Sözler">
+  <h1>👋 Merhaba, Ben Ferivonus! 👋</h1>
   <p>
-    <i>Multi-disciplinary Engineer | Security Researcher | Reverse Engineer</i><br>
-    <i>Software Developer | Blogger | Believer</i>
+    <i>Çok Disiplinli Mühendis | Güvenlik Araştırmacısı | Tersine Mühendis</i><br>
+    <i>Yazılım Geliştirici | Blog Yazarı | İnançlı</i>
   </p>
   
   <br>
   
-  <h3>My Websites & Connect</h3>
+  <h3>Web Sitelerim ve İletişim</h3>
   <p>
     <a href="https://fahrettinbasturk.com">
-      <img src="https://img.shields.io/badge/fahrettinbasturk.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/fahrettinbasturk.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kişisel Web Sitesi"/>
     </a>
     <a href="https://mavibahcem.com">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
@@ -21,7 +21,7 @@
     </a>
   </p>
   
-  <p><i>Here you can find my reverse engineering and vulnerability research projects:</i></p>
+  <p><i>Tersine mühendislik ve zafiyet araştırması projelerimi burada bulabilirsiniz:</i></p>
   <p>
     <a href="https://codeberg.org/ferivonus">
       <img src="https://img.shields.io/badge/Codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"/>
@@ -37,29 +37,29 @@
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Ferivonus&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Ferivonus&style=for-the-badge&color=blue&label=PROFİL+GÖRÜNTÜLENME" alt="Profil Görüntülenme">
   </p>
 </div>
 
 ---
 
-### Main Areas of Interest
+### İlgilendiğim Ana Alanlar
 
-- **Web Development:** Internet (Front-end and Back-end) Programming
-- **Automation:** Social Media & Automation Bot Programming
-- **Game & Simulation:** Game Engine Mechanics and Simulation Programming
-- **AI & ML:** Machine Learning Models and Implementations
-- **Mobile Apps:** Cross-platform Mobile Development
-- **Reverse Engineering:** Applications, Tool Development, and ROM Hacking
-- **Security & Malware:** Malware Development and Securing Applications
-- **Low-Level Development:** Rust Library Development, ARM & x86 Assembly (Development / Patching)
+- **Web Geliştirme:** İnternet (Ön Yüz ve Arka Yüz) Programlama
+- **Otomasyon:** Sosyal Medya ve Otomasyon Bot Programlama
+- **Oyun ve Simülasyon:** Oyun Motoru Mekanikleri ve Simülasyon Programlama
+- **Yapay Zeka ve Makine Öğrenmesi:** Makine Öğrenmesi Modelleri ve Uygulamaları
+- **Mobil Uygulamalar:** Çapraz Platform Mobil Geliştirme
+- **Tersine Mühendislik:** Uygulamalar, Araç Geliştirme ve ROM Hacking
+- **Güvenlik ve Zararlı Yazılım:** Zararlı Yazılım Geliştirme ve Uygulama Güvenliği
+- **Düşük Seviye Geliştirme:** Rust Kütüphane Geliştirme, ARM ve x86 Assembly (Geliştirme / Yama)
 
 ---
 
-## Current Focus & Technologies
+## Şu Anda Odaklandığım Alanlar ve Teknolojiler
 
-- **System Programming**  
-  Technologies I use:  
+- **Sistem Programlaması**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -71,8 +71,8 @@
 
 ---
 
-- **Backend Development**  
-  Technologies I use:  
+- **Arka Yüz (Backend) Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/PHP_(Laravel)-blue?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP Laravel"/>
   <img src="https://img.shields.io/badge/Rust_(Actix)-blue?style=for-the-badge&logo=rust&logoColor=white" alt="Actix"/>
@@ -83,23 +83,23 @@
 
 ---
 
-- **Smart TV Application Development**  
-  Technologies I use:  
+- **Akıllı TV Uygulaması Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/Rust_(Backend)-blue?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Flutter_(Frontend)-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 
 ---
 
-- **Darkweb Development**  
-  Technologies I use:  
+- **Darkweb Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/Dynamic_HTML_(Frontend)-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Dynamic HTML"/>
   <img src="https://img.shields.io/badge/Rust_(Backend)-blue?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Go_(Backend)-blue?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 
 ---
 
-- **Malware Development**  
-  Languages I use:  
+- **Zararlı Yazılım (Malware) Geliştirme**  
+  Kullandığım diller:  
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/x86%20Assembly-blue?style=for-the-badge&logoColor=white" alt="x86 Assembly"/>
   <img src="https://img.shields.io/badge/ARM%20Assembly-blue?style=for-the-badge&logoColor=white" alt="ARM Assembly"/>
@@ -109,8 +109,8 @@
 
 ---
 
-- **Game and Simulation Development**  
-  Technologies I use:  
+- **Oyun ve Simülasyon Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Raylib_(C)-blue?style=for-the-badge&logo=c&logoColor=white" alt="Raylib"/>
@@ -119,8 +119,8 @@
 
 ---
 
-- **Windows Desktop Development**  
-  Technologies I use:  
+- **Windows Masaüstü Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Raylib_(C)-blue?style=for-the-badge&logo=c&logoColor=white" alt="Raylib"/>
@@ -129,8 +129,8 @@
 
 ---
 
-- **Frontend Web Development**  
-  Technologies I use:  
+- **Ön Yüz (Frontend) Web Geliştirme**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/Dynamic_HTML-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Dynamic HTML"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -142,8 +142,8 @@
 
 ---
 
-- **Functional Programming & Scripting**  
-  Languages I use:  
+- **Fonksiyonel Programlama ve Betik Yazımı (Scripting)**  
+  Kullandığım diller:  
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Rust-blue?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -153,15 +153,15 @@
 
 ---
 
-- **Machine Learning**  
-  Technologies I use:  
+- **Makine Öğrenmesi**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 
 ---
 
-- **Reverse Engineering & IDEs**  
-  Tools I use:  
+- **Tersine Mühendislik ve IDE'ler**  
+  Kullandığım araçlar:  
   <img src="https://img.shields.io/badge/Ghidra-blue?style=for-the-badge&logoColor=white" alt="Ghidra"/>
   <img src="https://img.shields.io/badge/Neovim-blue?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
   <img src="https://img.shields.io/badge/Vim-blue?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
@@ -171,51 +171,51 @@
 
 ---
 
-- **Raw Network Monitoring**  
-  Tools I use:  
+- **Ham Ağ İzleme (Raw Network Monitoring)**  
+  Kullandığım araçlar:  
   <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 
 ---
 
-- **Low-Level Graphics Programming**  
-  Technologies I use:  
+- **Düşük Seviye Grafik Programlama**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/DirectX-blue?style=for-the-badge&logoColor=white" alt="DirectX"/>
   <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 ---
 
-- **Mobile App Development**  
-  Frameworks I use:  
+- **Mobil Uygulama Geliştirme**  
+  Kullandığım framework'ler:  
   <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 
 ---
 
-- **Computer Automation**  
-  Scripting languages & Tools I use:
+- **Bilgisayar Otomasyonu**  
+  Kullandığım betik dilleri ve araçlar:
   - Windows: <img src="https://img.shields.io/badge/Batch-blue?style=for-the-badge&logoColor=white" alt="Batch"/> <img src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   - Linux: <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/Z_Shell-blue?style=for-the-badge&logoColor=white" alt="Z Shell"/>
   - CI/CD: <img src="https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 ---
 
-- **Operating Systems & Environments**  
-  Platforms I use:  
+- **İşletim Sistemleri ve Çevreler**  
+  Kullandığım platformlar:  
   <img src="https://img.shields.io/badge/Arch_Linux-blue?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 
 ---
 
-- **Application Packaging**  
-  Tools I use:  
+- **Uygulama Paketleme**  
+  Kullandığım araçlar:  
   <img src="https://img.shields.io/badge/Xix_Toolset-blue?style=for-the-badge&logoColor=white" alt="Xix Toolset"/>
   <img src="https://img.shields.io/badge/Ninja-blue?style=for-the-badge&logoColor=white" alt="Ninja"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 ---
 
-- **Databases**  
-  Technologies I use:  
+- **Veritabanları**  
+  Kullandığım teknolojiler:  
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -226,7 +226,7 @@
 
 ---
 
-## Libraries & Programs
+## Kütüphaneler ve Programlar
 
 <img src="https://img.shields.io/badge/Discord.js-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
 <img src="https://img.shields.io/badge/Unreal_Engine_5-blue?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
@@ -236,7 +236,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub İstatistikleri
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferivonus&theme=dark" alt="GitHub Streak" /></a>
